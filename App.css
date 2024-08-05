@@ -1,6 +1,6 @@
 .App {
-  text-align: center;
-  background-color: navy;
+  text-align: left;
+  padding-left: 25px;
 }
 
 .App-logo {
@@ -36,4 +36,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.footer{
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.header{
+  color: white;
+  padding: 10px;
+  font-size: 34px;
+
+}
+
+.header-sub-title{
+  color: white;
+  font-size: 18px;
 }
