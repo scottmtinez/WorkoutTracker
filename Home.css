@@ -1,0 +1,39 @@
+/*
+    --- Global ---
+*/
+
+*{
+    background-color: rgb(0, 0, 80);
+}
+
+
+
+/*  
+    --------------------------------
+    Screen Size - For Laptop 
+    --------------------------------
+*/
+
+@media only screen and (min-width: 1100px){
+
+}
+
+/* 
+    ---------------------------------
+    Screen Size - For Medium Screens
+    --------------------------------
+*/
+
+@media only screen and (min-width: 600px) and (max-width: 1100px){
+
+}
+
+/*  
+    --------------------------------
+    Screen Size - For Mobile 
+    --------------------------------
+*/
+
+@media only screen and (max-width: 600px){
+
+}
